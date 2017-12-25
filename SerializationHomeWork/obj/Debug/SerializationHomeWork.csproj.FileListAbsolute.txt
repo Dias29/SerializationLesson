@@ -1,0 +1,8 @@
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\SerializationHomeWork\SerializationHomeWork\bin\Debug\SerializationHomeWork.exe.config
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\SerializationHomeWork\SerializationHomeWork\bin\Debug\SerializationHomeWork.exe
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\SerializationHomeWork\SerializationHomeWork\bin\Debug\SerializationHomeWork.pdb
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\SerializationHomeWork\SerializationHomeWork\obj\Debug\SerializationHomeWork.csprojResolveAssemblyReference.cache
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\SerializationHomeWork\SerializationHomeWork\obj\Debug\SerializationHomeWork.exe
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\SerializationHomeWork\SerializationHomeWork\obj\Debug\SerializationHomeWork.pdb
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\SerializationHomeWork\SerializationHomeWork\bin\Debug\Newtonsoft.Json.dll
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\SerializationHomeWork\SerializationHomeWork\bin\Debug\Newtonsoft.Json.xml
