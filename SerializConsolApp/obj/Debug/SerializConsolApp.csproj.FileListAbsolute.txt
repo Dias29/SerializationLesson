@@ -1,0 +1,8 @@
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\SerializConsolApp\bin\Debug\SerializConsolApp.exe.config
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\SerializConsolApp\bin\Debug\SerializConsolApp.exe
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\SerializConsolApp\bin\Debug\SerializConsolApp.pdb
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\SerializConsolApp\bin\Debug\ClassLib.dll
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\SerializConsolApp\bin\Debug\ClassLib.pdb
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\SerializConsolApp\obj\Debug\SerializConsolApp.csprojResolveAssemblyReference.cache
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\SerializConsolApp\obj\Debug\SerializConsolApp.exe
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\SerializConsolApp\obj\Debug\SerializConsolApp.pdb

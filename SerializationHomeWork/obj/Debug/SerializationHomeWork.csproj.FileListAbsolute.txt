@@ -6,3 +6,13 @@ c:\users\уринбасаровд\documents\visual studio 2017\Projects\Serializ
 c:\users\уринбасаровд\documents\visual studio 2017\Projects\SerializationHomeWork\SerializationHomeWork\obj\Debug\SerializationHomeWork.pdb
 c:\users\уринбасаровд\documents\visual studio 2017\Projects\SerializationHomeWork\SerializationHomeWork\bin\Debug\Newtonsoft.Json.dll
 c:\users\уринбасаровд\documents\visual studio 2017\Projects\SerializationHomeWork\SerializationHomeWork\bin\Debug\Newtonsoft.Json.xml
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\SerializationHomeWork\bin\Debug\SerializationHomeWork.exe.config
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\SerializationHomeWork\obj\Debug\SerializationHomeWork.exe
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\SerializationHomeWork\obj\Debug\SerializationHomeWork.pdb
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\SerializationHomeWork\bin\Debug\SerializationHomeWork.exe
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\SerializationHomeWork\bin\Debug\SerializationHomeWork.pdb
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\SerializationHomeWork\bin\Debug\ClassLib.dll
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\SerializationHomeWork\bin\Debug\Newtonsoft.Json.dll
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\SerializationHomeWork\bin\Debug\ClassLib.pdb
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\SerializationHomeWork\bin\Debug\Newtonsoft.Json.xml
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\SerializationHomeWork\obj\Debug\SerializationHomeWork.csprojResolveAssemblyReference.cache

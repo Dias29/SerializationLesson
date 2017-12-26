@@ -1,0 +1,5 @@
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\ClassLib\bin\Debug\ClassLib.dll
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\ClassLib\bin\Debug\ClassLib.pdb
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\ClassLib\obj\Debug\ClassLib.csprojResolveAssemblyReference.cache
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\ClassLib\obj\Debug\ClassLib.dll
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\SerializationLesson\ClassLib\obj\Debug\ClassLib.pdb
